@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500589414923",
+    "project_id": "smart-green-agriculture-2024",
+    "storage_bucket": "smart-green-agriculture-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500589414923:android:266b1c572dcded1128550e",
+        "android_client_info": {
+          "package_name": "com.smart_green_agriculture_project2024.smart_green_agriculture_graduation_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk5aAcdIq46gzZAz7NPRPPTK7hxIXmdP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
